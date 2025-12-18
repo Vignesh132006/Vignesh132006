@@ -5,7 +5,7 @@
 I am a passionate computer science student who loves building logic, solving problems, and learning new technologies.  
 I believe in **consistency, clean code, and continuous improvement**.
 
----
+---------------------
 
 ## 🧠 About Me
 - 🎓 Computer Science Student  
@@ -14,25 +14,24 @@ I believe in **consistency, clean code, and continuous improvement**.
 - 🌱 Currently learning **Advanced DSA & Backend Basics**
 - 🎯 Goal: Crack product-based company interviews
 
----
-
-## 🛠️ Tech Stack
-
+--------------------
 ### 👨‍💻 Programming Languages
 - Java ☕  
 - C++ ⚙️  
-- C  
-
+- C
+  
+--------------------
 ### 🌐 Web Basics
 - HTML5  
-- CSS3  
+- CSS3
+- javascript
 
+--------------------
 ### 📚 Core Concepts
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)  
 - Git & GitHub  
-
----
+--------------------
 
 ## 📌 What I Do
 - ✔ Solve coding problems daily  
@@ -40,26 +39,26 @@ I believe in **consistency, clean code, and continuous improvement**.
 - ✔ Strengthen fundamentals  
 - ✔ Prepare for interviews and exams  
 
----
+---------------------
 
 ## 🔥 Current Goals
 - 🚀 Master DSA (Arrays → Trees → Graphs)  
-- 🧩 Solve 500+ coding problems  
+- 🧩 Solve 2000+ coding problems  
 - 🌐 Build real-world projects  
 - 🏆 Become a skilled software engineer  
 
----
+---------------------
 
 ## 📈 GitHub Philosophy
 > **“Code every day. Improve every day.”**
 
----
+--------------------
 
 ## 🤝 Connect With Me
-- 💼 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+- 💼 GitHub: https://github.com/Vignesh132006  
+- 📧 Email: vignesh117032006@gmail.com
 
----
+----------------------
 
 ⭐ **If you like my work, consider starring my repositories!** ⭐
 
