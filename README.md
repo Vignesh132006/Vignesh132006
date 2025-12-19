@@ -9,7 +9,7 @@ I believe in **consistency, clean code, and continuous improvement**.
 
 ## 🧠 About Me
 - 🎓 Computer Science Student  
-- 💻 Strong in **Java & C++**
+- 💻 Strong in **Java Program**
 - 📊 Practicing **Data Structures & Algorithms**
 - 🌱 Currently learning **Advanced DSA & Backend Basics**
 - 🎯 Goal: Crack product-based company interviews
