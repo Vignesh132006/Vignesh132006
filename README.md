@@ -17,8 +17,9 @@ I believe in **consistency, clean code, and continuous improvement**.
 --------------------
 ### 👨‍💻 Programming Languages
 - Java ☕  
-- C++ ⚙️  
-- C
+- C++ basics 
+- C basics
+- python basics
   
 --------------------
 ### 🌐 Web Basics
