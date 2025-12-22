@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vicky (VICKY)
+# 👋 Hi, This is Vignesh
 
 🚀 **Aspiring Software Developer | Java & C++ | DSA | Problem Solver**
 
