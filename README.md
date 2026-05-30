@@ -135,34 +135,24 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vignesh132006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=378ADD&icon_color=1D9E75&text_color=ffffff&bg_color=0d1117&border_radius=12" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Vignesh132006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh132006&theme=radical&hide_border=true&layout=compact&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh132006&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&text_color=ffffff&bg_color=0d1117&border_radius=12" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=1D9E75&currStreakLabel=378ADD&border_radius=12)](https://git.io/streak-stats)
-
-</div>
+</div> -->
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vignesh132006&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vignesh132006&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vignesh132006&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -172,7 +162,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh132006&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh132006&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -182,7 +172,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
