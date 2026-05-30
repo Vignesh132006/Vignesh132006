@@ -137,24 +137,32 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vignesh132006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh132006&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vignesh132006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=378ADD&icon_color=1D9E75&text_color=ffffff&bg_color=0d1117&border_radius=12" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh132006&layout=donut&theme=tokyonight&hide_border=true&title_color=378ADD&text_color=ffffff&bg_color=0d1117&border_radius=12" />
 
 </div>
 
----
+<div align="center">
 
-## 🏆 GitHub Trophies
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=tokyonight&hide_border=true&background=0d1117&ring=378ADD&fire=1D9E75&currStreakLabel=378ADD&border_radius=12)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vignesh132006&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vignesh132006&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vignesh132006&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vignesh132006&theme=tokyonight" />
 
 </div>
 
