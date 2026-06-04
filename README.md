@@ -135,7 +135,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
+< <div align="center">
 
 <table>
   <tr>
@@ -148,7 +148,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
   </tr>
 </table>
 
-</div> -->
+</div> >
 
 <div align="center">
 
