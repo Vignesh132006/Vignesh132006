@@ -137,7 +137,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 < <div align="center">
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Vignesh132006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
@@ -148,7 +148,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
   </tr>
 </table>
 
-</div> >
+</div> > -->
 
 <div align="center">
 
