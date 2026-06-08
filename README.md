@@ -126,7 +126,7 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 | 🖥️ Frontend | React.js |
 | ⚙️ Backend | Node.js + Express |
 | 🗄️ Database | MongoDB |
-| 🤖 AI | Claude API (Anthropic) |
+| 🤖 AI | Groq API Key |
 | 🔔 Notifications | SendGrid / Twilio |
 
 **USP:** Not just a quiz generator — it finds YOUR weak topics from YOUR own notes and schedules personalised revision using a forgetting curve model.
