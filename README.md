@@ -1,189 +1,135 @@
+<!-- ============================================================
+     VIGNESH | GitHub Profile README  — Terminal OS Theme
+     ============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1D9E75&height=200&section=header&text=Hi%20There!%20I'm%20Vignesh%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20Java%20%7C%20DSA%20%7C%20Problem%20Solver&descAlignY=60&descSize=16" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    vignesh@dev:~$  whoami                                    ║
+║                                                              ║
+║    > Aspiring Software Developer                             ║
+║    > Java · DSA · Problem Solver                             ║
+║    > CS Student grinding toward product-based companies      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Code+daily.+Improve+daily.;Arrays+%E2%86%92+Trees+%E2%86%92+Graphs+%E2%86%92+Dream+company;Java+%7C+DSA+%7C+Backend+%7C+System+Design;Building+AI-powered+projects+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
+## `$ cat about.json`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Java+%26+DSA+Enthusiast+%E2%98%95;Daily+Problem+Solver+%F0%9F%A7%A0;Future+Software+Engineer+%F0%9F%9A%80;Code+%E2%80%A2+Learn+%E2%80%A2+Improve+%E2%80%A2+Repeat)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```java
-public class Vignesh {
-
-    String name        = "Vignesh";
-    String role        = "Aspiring Software Developer";
-    String education   = "Computer Science Student";
-    String primaryLang = "Java";
-    String goal        = "Crack product-based company interviews";
-
-    String[] currentlyLearning = { "Advanced DSA", "Backend Basics", "System Design" };
-    String[] interests         = { "Problem Solving", "Clean Code", "Building Projects" };
-
-    String philosophy() {
-        return "Code every day. Improve every day.";
-    }
+```json
+{
+  "name"         : "Vignesh",
+  "role"         : "Aspiring Software Developer",
+  "education"    : "Computer Science Student",
+  "primary_lang" : "Java",
+  "goal"         : "Land at a product-based company",
+  "learning"     : ["Advanced DSA", "Backend Basics", "System Design"],
+  "interests"    : ["Problem Solving", "Clean Code", "Real Projects"],
+  "philosophy"   : "Code daily. Improve daily."
 }
 ```
 
 ---
 
-## 🚀 What I Do
-
-| ✔ | Activity |
-|---|----------|
-| 💻 | Solve coding problems **daily** |
-| 📐 | Write **optimized and clean** code |
-| 🧱 | Strengthen **core fundamentals** |
-| 🎯 | Prepare for **product-based interviews** |
-| 🌐 | Build **real-world projects** |
-
----
-
-## 👨‍💻 Programming Languages
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
----
-
-## 🌐 Web Basics
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
----
-
-## 📚 Core Concepts & Tools
-
-<div align="center">
-
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-378ADD?style=for-the-badge&logo=leetcode&logoColor=white)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-1D9E75?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🔥 Current Goals
+## `$ ./dsa-progress --show`
 
 ```
-🚀 Master DSA      ████████████░░░░░░░░  60%   Arrays → Trees → Graphs
-🧩 2000+ Problems  ████░░░░░░░░░░░░░░░░  22%   Grinding daily
-🌐 Real Projects   ██████░░░░░░░░░░░░░░  30%   AI Learning Tracker (Active)
-🏆 Dream Company   ███░░░░░░░░░░░░░░░░░  15%   Consistent prep in progress
+Arrays & Strings   ██████████████████░░  90%  ✅ strong
+Linked Lists       ████████████████░░░░  80%  ✅ solid
+Stacks & Queues    ███████████████░░░░░  75%  ✅ good
+Trees & BST        ████████████░░░░░░░░  60%  🔄 active
+Graphs             ████████░░░░░░░░░░░░  40%  🔄 in progress
+Dynamic Prog.      ████░░░░░░░░░░░░░░░░  20%  📌 next focus
 ```
 
 ---
 
-## 🧩 DSA Progress
+## `$ ls skills/`
 
-```
-Arrays & Strings   ██████████████████░░  90% ✅
-Linked Lists       ████████████████░░░░  80% ✅
-Stacks & Queues    ███████████████░░░░░  75% ✅
-Trees & BST        ████████████░░░░░░░░  60% 🔄
-Graphs             ████████░░░░░░░░░░░░  40% 🔄
-Dynamic Programming████░░░░░░░░░░░░░░░░  20% 📌
-```
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-0C447C?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-085041?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3B3489?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-5F5E5A?style=flat-square&logo=c&logoColor=white)
 
-## 🏗️ Featured Project
+**Web & Tools**
 
-<div align="center">
+![HTML](https://img.shields.io/badge/HTML5-993C1D?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-185FA5?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-854F0B?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A32D2D?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-444441?style=flat-square&logo=github&logoColor=white)
 
-### 🧠 AI-Powered Learning Tracker
+**Core Concepts**
 
-</div>
-
-> A full-stack web app that helps CS students **learn smarter** using AI.
-> Log daily learning → AI summarises notes → generates quiz questions → detects weak topics → smart revision reminders.
-
-| Layer | Technology |
-|-------|-----------|
-| 🖥️ Frontend | React.js |
-| ⚙️ Backend | Node.js + Express |
-| 🗄️ Database | MongoDB |
-| 🤖 AI | Groq API Key |
-| 🔔 Notifications | SendGrid / Twilio |
-
-**USP:** Not just a quiz generator — it finds YOUR weak topics from YOUR own notes and schedules personalised revision using a forgetting curve model.
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F6E56?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-534AB7?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-993556?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats
+## `$ cat featured-project.md`
 
-< <div align="center">
+<table>
+<tr>
+<td width="60">🧠</td>
+<td>
 
-<!-- <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vignesh132006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh132006&theme=radical&hide_border=true&layout=compact&langs_count=6" />
-    </td>
-  </tr>
+### AI-Powered Learning Tracker
+`React.js` · `Node.js` · `Express` · `MongoDB` · `Groq API` · `SendGrid`
+
+Log daily learning → AI summarises notes → generates quiz questions → detects weak topics → schedules smart revision using a **forgetting curve model**.
+
+Not just a quiz generator — it finds _your_ gaps from _your_ own notes.
+
+</td>
+</tr>
 </table>
 
-</div> > -->
+---
+
+## `$ ./goals --current`
+
+| Goal | Progress | Status |
+|------|----------|--------|
+| 🚀 Master DSA | `████████████░░░░░░░░` 60% | Arrays → Trees → Graphs |
+| 🧩 2000+ Problems | `████░░░░░░░░░░░░░░░░` 22% | Grinding daily |
+| 🌐 Real Projects | `██████░░░░░░░░░░░░░░` 30% | AI Tracker active |
+| 🏆 Dream Company | `███░░░░░░░░░░░░░░░░░` 15% | Consistent prep |
+
+---
+
+## `$ git log --oneline --graph`
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75&sideLabels=1D9E75&dates=888780)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh132006&theme=github-compact&hide_border=true&area=true&color=1D9E75&line=378ADD&point=D4537E)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## `$ connect --with vignesh`
 
 <div align="center">
 
-[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh132006&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vignesh132006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vignesh132006)
-[![Email](https://img.shields.io/badge/Email-vignesh117032006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vignesh117032006@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-Vignesh132006-0D1117?style=for-the-badge&logo=github&logoColor=1D9E75)](https://github.com/Vignesh132006)
+[![Email](https://img.shields.io/badge/email-vignesh117032006@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=378ADD)](mailto:vignesh117032006@gmail.com)
 
 </div>
 
@@ -191,16 +137,10 @@ Dynamic Programming████░░░░░░░░░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=120&section=footer" />
+```
+vignesh@dev:~$ █
+```
 
-</div>
-
-<div align="center">
-
-⭐ **If you like my work, consider starring my repositories!** ⭐
-
-🧠 *Code • Learn • Improve • Repeat*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vignesh132006&color=378ADD&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Vignesh132006&color=1D9E75&style=flat-square&label=profile+views)
 
 </div>
