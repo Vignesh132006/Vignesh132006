@@ -111,15 +111,6 @@ Cinematic portfolio with a custom Three.js GPU-optimized particle system, mouse 
 
 ---
 
-### E-Commerce Website — AirPods Clone
-`HTML` `CSS` `JavaScript` `GSAP`
-
-Responsive Apple AirPods storefront with GSAP micro-animations, mobile-first product grid, dynamic filters, real-time cart calculations, and localStorage persistence.
-
-[Repository](https://github.com/Vignesh132006/AirPods-Store-Clone)
-
----
-
 ## Experience
 
 **Full Stack Development Intern** — LearnLogicify Technologies
