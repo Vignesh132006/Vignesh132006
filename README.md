@@ -1,146 +1,187 @@
-<!-- ============================================================
-     VIGNESH | GitHub Profile README  — Terminal OS Theme
-     ============================================================ -->
+# VIGNESH S — GitHub Profile README
+# Paste this entire file as README.md inside a repo named: Vignesh132006
+# ─────────────────────────────────────────────────────────────────────
+
+---PASTE BELOW THIS LINE---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    vignesh@dev:~$  whoami                                    ║
-║                                                              ║
-║    > Aspiring Software Developer                             ║
-║    > Java · DSA · Problem Solver                             ║
-║    > CS Student grinding toward product-based companies      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B3E&height=120&section=header&text=VIGNESH%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=14&descColor=9090CC" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Code+daily.+Improve+daily.;Arrays+%E2%86%92+Trees+%E2%86%92+Graphs+%E2%86%92+Dream+company;Java+%7C+DSA+%7C+Backend+%7C+System+Design;Building+AI-powered+projects+%F0%9F%A4%96)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=1A3CC8&center=true&vCenter=true&width=650&lines=B.E.+CSE+%40+KIT+Coimbatore+%7C+2023%E2%80%932027;1500%2B+Problems+Solved+%7C+LeetCode+1549%2B;MERN+Stack+%7C+Next.js+%7C+Three.js+%7C+TensorFlow;Built+a+VCS+from+scratch+in+Python+%26+MySQL;Available+for+opportunities+%C2%B7+2026)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ cat about.json`
+## whoami
 
-```json
-{
-  "name"         : "Vignesh",
-  "role"         : "Aspiring Software Developer",
-  "education"    : "Computer Science Student",
-  "primary_lang" : "Java",
-  "goal"         : "Land at a product-based company",
-  "learning"     : ["Advanced DSA", "Backend Basics", "System Design"],
-  "interests"    : ["Problem Solving", "Clean Code", "Real Projects"],
-  "philosophy"   : "Code daily. Improve daily."
-}
 ```
+Name     →  Vignesh S
+Role     →  Full Stack Developer & Competitive Programmer
+College  →  KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
+Degree   →  B.E. Computer Science & Engineering (2023 – 2027)
+CGPA     →  7.95 / 10
+Status   →  Available for internships and full-time roles · 2026
+```
+
+I write code that ships — from REST APIs and React UIs to custom VCS tools and neural networks.  
+My competitive programming background means I think in algorithms first, frameworks second.
 
 ---
 
-## `$ ./dsa-progress --show`
+## Competitive Programming
 
-```
-Arrays & Strings   ██████████████████░░  90%  ✅ strong
-Linked Lists       ████████████████░░░░  80%  ✅ solid
-Stacks & Queues    ███████████████░░░░░  75%  ✅ good
-Trees & BST        ████████████░░░░░░░░  60%  🔄 active
-Graphs             ████████░░░░░░░░░░░░  40%  🔄 in progress
-Dynamic Prog.      ████░░░░░░░░░░░░░░░░  20%  📌 next focus
-```
+<div align="center">
+
+| Platform | Rating | Solved |
+|:---:|:---:|:---:|
+| LeetCode | **1549+** | 1500+ problems |
+| CodeChef | **1419+** | 150+ contests |
+| GeeksforGeeks | Active | Daily practice |
+| HackerRank | Active | SQL · Java certified |
+
+</div>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode%20%7C%201549+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vickysaravanan/)
+[![CodeChef](https://img.shields.io/badge/CodeChef%20%7C%201419+-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/vignesh062)
 
 ---
 
-## `$ ls skills/`
+## Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-0C447C?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-085041?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3B3489?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-5F5E5A?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Web & Tools**
+**Full Stack / Web**
 
-![HTML](https://img.shields.io/badge/HTML5-993C1D?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-185FA5?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-854F0B?style=flat-square&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-A32D2D?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-444441?style=flat-square&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Core Concepts**
+**3D / Animation**
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F6E56?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-534AB7?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-993556?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
----
+**Database & Tools**
 
-## `$ cat featured-project.md`
-
-<table>
-<tr>
-<td width="60">🧠</td>
-<td>
-
-### AI-Powered Learning Tracker
-`React.js` · `Node.js` · `Express` · `MongoDB` · `Groq API` · `SendGrid`
-
-Log daily learning → AI summarises notes → generates quiz questions → detects weak topics → schedules smart revision using a **forgetting curve model**.
-
-Not just a quiz generator — it finds _your_ gaps from _your_ own notes.
-
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## `$ ./goals --current`
+## Featured Projects
 
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🚀 Master DSA | `████████████░░░░░░░░` 60% | Arrays → Trees → Graphs |
-| 🧩 2000+ Problems | `████░░░░░░░░░░░░░░░░` 22% | Grinding daily |
-| 🌐 Real Projects | `██████░░░░░░░░░░░░░░` 30% | AI Tracker active |
-| 🏆 Dream Company | `███░░░░░░░░░░░░░░░░░` 15% | Consistent prep |
+### Version Control System
+`Python` `MySQL` `System Design` `File Compression` `Git Core`
+
+Built a custom Git-like CLI tool from scratch — commit, rollback, status commands, hashing and compression for snapshot tracking, and automated daily backups via MySQL metadata storage.
+
+> The kind of project that shows you understand how tools work under the hood.
+
+[View Repository](https://github.com/Vignesh132006/Version-Control-System-CLI)
 
 ---
 
-## `$ git log --oneline --graph`
+### Traffic Detection & Classification
+`Python` `TensorFlow` `OpenCV` `Deep Learning` `YOLO`
+
+YOLO/SSD-based vehicle detection pipeline achieving ~92% classification accuracy. Includes OpenCV tracking for speed and density computation, and a live analytics dashboard.
+
+[Live Demo on HuggingFace](https://huggingface.co/spaces/vignesh132006/Traffic_Analytics) · [Repository](https://github.com/Vignesh132006/Traffic-Detection-Classification)
+
+---
+
+### Personal Portfolio
+`Next.js` `Three.js` `GSAP` `CSS Modules`
+
+Cinematic portfolio with a custom Three.js GPU-optimized particle system, mouse parallax, GSAP blur-to-focus scroll animations, and a glassmorphism video hero. Fully responsive.
+
+[Live Site](https://portfolio-one-pied-30.vercel.app/) · [Repository](https://github.com/Vignesh132006/Portfolio)
+
+---
+
+### E-Commerce Website — AirPods Clone
+`HTML` `CSS` `JavaScript` `GSAP`
+
+Responsive Apple AirPods storefront with GSAP micro-animations, mobile-first product grid, dynamic filters, real-time cart calculations, and localStorage persistence.
+
+[Repository](https://github.com/Vignesh132006/AirPods-Store-Clone)
+
+---
+
+## Experience
+
+**Full Stack Development Intern** — LearnLogicify Technologies
+`Jun 2025 · Tamil Nadu`
+
+- Developed MERN-based features, improving application responsiveness by ~20%
+- Integrated REST APIs and optimized MySQL and MongoDB queries
+- Built secure authentication flows and resolved performance bottlenecks in dev/prod
+- Contributed to Agile sprints, code reviews, and on-time delivery
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=dark&hide_border=true&background=0D1117&ring=1D9E75&fire=378ADD&currStreakLabel=1D9E75&sideLabels=1D9E75&dates=888780)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh132006&theme=tokyonight&hide_border=true&background=0D1117&ring=1A3CC8&fire=1A3CC8&currStreakLabel=1A3CC8)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh132006&theme=github-compact&hide_border=true&area=true&color=1D9E75&line=378ADD&point=D4537E)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesh132006&theme=tokyo-night&hide_border=true&area=true&color=1A3CC8&line=1A3CC8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## `$ connect --with vignesh`
+## Certifications
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-Vignesh132006-0D1117?style=for-the-badge&logo=github&logoColor=1D9E75)](https://github.com/Vignesh132006)
-[![Email](https://img.shields.io/badge/email-vignesh117032006@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=378ADD)](mailto:vignesh117032006@gmail.com)
-
-</div>
+- NPTEL — Programming in Java
+- Red Hat — Linux Fundamentals
+- HackerRank — SQL Basic
+- Infosys Springboard — React, JavaScript, Java, Python, HTML & CSS
+- Agent AI Workshop
 
 ---
 
+## Connect
+
 <div align="center">
 
-```
-vignesh@dev:~$ █
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1B3E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-one-pied-30.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-0246342a5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vickysaravanan/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vignesh062)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.cse62@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vignesh132006&color=1D9E75&style=flat-square&label=profile+views)
+</div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vignesh132006&color=1A3CC8&style=flat-square&label=profile+views)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B3E&height=80&section=footer" width="100%"/>
 </div>
