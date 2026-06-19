@@ -1,9 +1,3 @@
-# VIGNESH S — GitHub Profile README
-# Paste this entire file as README.md inside a repo named: Vignesh132006
-# ─────────────────────────────────────────────────────────────────────
-
----PASTE BELOW THIS LINE---
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B3E&height=120&section=header&text=VIGNESH%20S&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=14&descColor=9090CC" width="100%"/>
