@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=1A3CC8&center=true&vCenter=true&width=650&lines=B.E.+CSE+%40+KIT+Coimbatore+%7C+2023%E2%80%932027;1500%2B+Problems+Solved+%7C+LeetCode+1549%2B;MERN+Stack+%7C+Next.js+%7C+Three.js+%7C+TensorFlow;Built+a+VCS+from+scratch+in+Python+%26+MySQL;Available+for+opportunities+%C2%B7+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=1A3CC8&center=true&vCenter=true&width=700&lines=B.E.+CSE+%40+KIT+Coimbatore+%7C+2023%E2%80%932027;1500%2B+Problems+Solved+%7C+LeetCode+1549%2B;MERN+Stack+%7C+Next.js+%7C+Three.js+%7C+TensorFlow;Built+a+VCS+%26+AI+Learning+Journal+from+scratch;Available+for+internships+%C2%B7+2026)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,10 +20,11 @@ Role     →  Full Stack Developer & Competitive Programmer
 College  →  KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
 Degree   →  B.E. Computer Science & Engineering (2023 – 2027)
 CGPA     →  7.95 / 10
+Email    →  kit27.cse62@gmail.com
 Status   →  Available for internships and full-time roles · 2026
 ```
 
-I write code that ships — from REST APIs and React UIs to custom VCS tools and neural networks.  
+I write code that ships — from REST APIs and React UIs to custom VCS tools, AI-powered SaaS products, and neural networks.  
 My competitive programming background means I think in algorithms first, frameworks second.
 
 ---
@@ -41,8 +42,12 @@ My competitive programming background means I think in algorithms first, framewo
 
 </div>
 
+<div align="center">
+
 [![LeetCode](https://img.shields.io/badge/LeetCode%20%7C%201549+-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vickysaravanan/)
 [![CodeChef](https://img.shields.io/badge/CodeChef%20%7C%201419+-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/vignesh062)
+
+</div>
 
 ---
 
@@ -78,11 +83,32 @@ My competitive programming background means I think in algorithms first, framewo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+**AI / APIs**
+
+![Groq](https://img.shields.io/badge/Groq%20LLM-F55036?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 ---
 
 ## Featured Projects
 
-### Version Control System
+### 🧠 NueroLoop — AI-Powered Learning Journal
+`React` `Node.js` `Express` `MongoDB` `Groq AI` `SendGrid` `JWT`
+
+A full-stack AI EdTech SaaS where users write study notes and the system auto-generates quiz questions, detects weak topics, and schedules spaced repetition revision using a forgetting curve algorithm.
+
+- Integrated **Groq LLM API** to summarise notes, extract topics from uploaded PDFs, and power a Socratic AI tutor chat
+- Implemented **SendGrid** email reminders via Node-cron scheduler, JWT authentication, and a streak-based leaderboard
+- Built a GitHub activity heatmap and spaced repetition engine — a complete learning productivity tool
+
+> The kind of project that shows you can ship an AI product end to end.
+
+[View Repository](https://github.com/Vignesh132006/NueroLoop)
+
+---
+
+### 🔧 Version Control System
 `Python` `MySQL` `System Design` `File Compression` `Git Core`
 
 Built a custom Git-like CLI tool from scratch — commit, rollback, status commands, hashing and compression for snapshot tracking, and automated daily backups via MySQL metadata storage.
@@ -93,7 +119,7 @@ Built a custom Git-like CLI tool from scratch — commit, rollback, status comma
 
 ---
 
-### Traffic Detection & Classification
+### 🚦 Traffic Detection & Classification
 `Python` `TensorFlow` `OpenCV` `Deep Learning` `YOLO`
 
 YOLO/SSD-based vehicle detection pipeline achieving ~92% classification accuracy. Includes OpenCV tracking for speed and density computation, and a live analytics dashboard.
@@ -102,7 +128,7 @@ YOLO/SSD-based vehicle detection pipeline achieving ~92% classification accuracy
 
 ---
 
-### Personal Portfolio
+### 🌐 Personal Portfolio
 `Next.js` `Three.js` `GSAP` `CSS Modules`
 
 Cinematic portfolio with a custom Three.js GPU-optimized particle system, mouse parallax, GSAP blur-to-focus scroll animations, and a glassmorphism video hero. Fully responsive.
@@ -141,11 +167,11 @@ Cinematic portfolio with a custom Three.js GPU-optimized particle system, mouse 
 
 ## Certifications
 
-- NPTEL — Programming in Java
-- Red Hat — Linux Fundamentals
-- HackerRank — SQL Basic
-- Infosys Springboard — React, JavaScript, Java, Python, HTML & CSS
-- Agent AI Workshop
+- 🏅 NPTEL — Programming in Java
+- 🐧 Red Hat — Linux Fundamentals
+- 💾 HackerRank — SQL Basic & Java
+- 🌐 Infosys Springboard — React, JavaScript, Java, Python, HTML & CSS
+- 🤖 Agent AI Workshop
 
 ---
 
@@ -157,6 +183,7 @@ Cinematic portfolio with a custom Three.js GPU-optimized particle system, mouse 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-0246342a5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vickysaravanan/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vignesh062)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vignesh132006)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.cse62@gmail.com)
 
 </div>
