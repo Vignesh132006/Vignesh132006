@@ -36,7 +36,7 @@ My competitive programming background means I think in algorithms first, framewo
 | Platform | Rating | Solved |
 |:---:|:---:|:---:|
 | LeetCode | **1549+** | 400+ problems |
-| CodeChef | **1419+** | 900+ contests |
+| CodeChef | **1419+** | 900+ problems |
 | GeeksforGeeks | Active | Daily practice |
 | HackerRank | Active | SQL · Java certified |
 
