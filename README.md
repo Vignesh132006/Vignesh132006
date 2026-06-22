@@ -16,7 +16,7 @@
 
 ```
 Name     →  Vignesh S
-Role     →  Full Stack Developer & Competitive Programmer
+Role     →  Full Stack Developer & Competitive Programmer & Data-driven roles
 College  →  KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore
 Degree   →  B.E. Computer Science & Engineering (2023 – 2027)
 CGPA     →  7.95 / 10
