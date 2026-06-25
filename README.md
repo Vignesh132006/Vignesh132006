@@ -104,7 +104,7 @@ A full-stack AI EdTech SaaS where users write study notes and the system auto-ge
 
 > The kind of project that shows you can ship an AI product end to end.
 
-[View Repository](https://github.com/Vignesh132006/NueroLoop)
+[Live Site](neuroloop-wine.vercel.app) . [View Repository](https://github.com/Vignesh132006/NueroLoop)
 
 ---
 
