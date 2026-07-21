@@ -35,7 +35,7 @@ My competitive programming background means I think in algorithms first, framewo
 
 | Platform | Rating | Solved |
 |:---:|:---:|:---:|
-| LeetCode | **1549+** | 400+ problems |
+| LeetCode | **1555+** | 400+ problems |
 | CodeChef | **1419+** | 900+ problems |
 | GeeksforGeeks | Active | Daily practice |
 | HackerRank | Active | SQL · Java certified |
@@ -167,6 +167,7 @@ Cinematic portfolio with a custom Three.js GPU-optimized particle system, mouse 
 
 ## Certifications
 
+- 🧑‍💻 NoviTech R&D Private Limited - 30 days MasterClass in Full Stack Development
 - 🏅 NPTEL — Programming in Java
 - 🐧 Red Hat — Linux Fundamentals
 - 💾 HackerRank — SQL Basic & Java
