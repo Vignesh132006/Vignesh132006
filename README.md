@@ -17,6 +17,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.cse62@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vickysaravanan/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vignesh062)
+[![Codolio](https://img.shields.io/badge/Codolio-6C4DFF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/VIGNESH%20S)
 
 </div>
 
@@ -231,6 +232,7 @@ animations, and a glassmorphism video hero.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-0246342a5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vickysaravanan/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vignesh062)
+[![Codolio](https://img.shields.io/badge/Codolio-6C4DFF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/VIGNESH%20S)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vignesh132006)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.cse62@gmail.com)
 
