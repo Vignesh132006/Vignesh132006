@@ -48,7 +48,7 @@ I know how to take a model from a notebook to a deployed, production-ready featu
 <table>
 <tr>
 <td align="center" width="330">
-<img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-AI-Practitioner_badge.3418d6e04c8a4b4c9d908e8b7a10c8f8c8a5a805.png" width="90"/><br/>
+<img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
 <b>AWS Certified AI Practitioner</b><br/>
 <sub>Amazon Web Services</sub>
 </td>
